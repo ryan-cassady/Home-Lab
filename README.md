@@ -1,0 +1,48 @@
+# Home Lab Journey
+**Owner:** Ryan Cassady  
+**Started:** June 2026  
+**Goal:** Transition from truck driver to IT professional
+
+---
+
+## About This Repository
+This repo documents my home lab setup, projects, and everything I learn on my journey into IT.
+
+---
+
+## Hardware
+- **Daily Driver / Lab Machine:** Microsoft Surface Book 3
+  - Intel Core i5-1035G7
+  - 8GB RAM
+  - 238GB SSD
+  - Windows 11 Pro
+
+- **Home Lab Server:** Mini PC (arriving soon)
+  - Intel Core i7-9700T (8 cores)
+  - 16GB RAM (upgrading to 32GB)
+  - 256GB NVMe SSD
+  - Windows 11 Pro
+  - Gigabit Ethernet
+
+---
+
+## Projects
+- [x] Windows 11 cleanup and optimization
+- [ ] VirtualBox setup and first VM
+- [ ] Jellyfin media server
+- [ ] CompTIA A+ study labs
+- [ ] Mini PC server setup
+
+---
+
+## Certifications
+- [ ] CompTIA A+ (in progress)
+
+---
+
+## Tools & Software
+- VirtualBox
+- 7-Zip
+- VLC
+- GitHub
+- OneDrive

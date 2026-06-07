@@ -19,8 +19,8 @@ Patch → Clean → Secure → Configure → Install
 ### Phase 1 — Patch
 - [x] Initial Windows setup completed
 - [x] Windows activation confirmed
-- [ ] All Windows updates installed
-- [ ] System restarted and confirmed up to date
+- [x] All Windows updates installed
+- [x] System restarted and confirmed up to date
 
 ### Phase 2 — Clean
 - [ ] Export installed apps list via PowerShell

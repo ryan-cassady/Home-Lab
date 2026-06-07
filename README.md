@@ -36,7 +36,7 @@ This repo documents my home lab setup, projects, and everything I learn on my jo
 ---
 
 ## Certifications
-- [ ] CompTIA A+ (in progress)
+- [x] CompTIA A+ (in progress)
 
 ---
 

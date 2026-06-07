@@ -37,7 +37,11 @@ This repo documents my home lab setup, projects, and everything I learn on my jo
 
 ## Certifications
 - [x] CompTIA A+ (in progress)
+- [ ] AZ-900 Microsoft Azure Fundamentals (planned)
+- [ ] CompTIA Security+ (planned)
 
+## Training (No Cert)
+- [ ] Network+ curriculum and labs
 ---
 
 ## Tools & Software

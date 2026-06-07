@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 - Total Labs: 60+
-- Completed: 0
+- Completed: 6
 - In Progress: 0
 
 ---

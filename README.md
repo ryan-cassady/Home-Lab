@@ -14,7 +14,7 @@ This repo documents my home lab setup, projects, and everything I learn on my jo
 - **Daily Driver / Lab Machine:** Microsoft Surface Book 3
   - Intel Core i5-1035G7
   - 8GB RAM
-  - 238GB SSD
+  - 256GB SSD
   - Windows 11 Pro
 
 - **Home Lab Server:**  Dell OptiPlex 7070 Micro

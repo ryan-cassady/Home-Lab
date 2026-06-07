@@ -17,9 +17,9 @@ This repo documents my home lab setup, projects, and everything I learn on my jo
   - 238GB SSD
   - Windows 11 Pro
 
-- **Home Lab Server:** Mini PC (arriving soon)
+- **Home Lab Server:**  Dell OptiPlex 7070 Micro
   - Intel Core i7-9700T (8 cores)
-  - 16GB RAM (upgrading to 32GB)
+  - 16GB RAM 
   - 256GB NVMe SSD
   - Windows 11 Pro
   - Gigabit Ethernet

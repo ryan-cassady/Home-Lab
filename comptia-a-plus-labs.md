@@ -11,8 +11,8 @@
 - [x] Identify internal components of a PC (completed on Dell OptiPlex 7070)
 - [ ] Install and remove RAM
 - [ ] Install and configure a hard drive
-- [ ] Connect and identify all cable types (SATA, DisplayPort, USB, etc.)
-- [ ] Read and interpret PC specs
+- [x] Connect and identify all cable types (SATA, DisplayPort, USB, etc.)
+- [x] Read and interpret PC specs
 - [ ] Use a multimeter to test power
 - [ ] Identify motherboard components
 
@@ -22,7 +22,7 @@
 - [ ] Install Windows 10 from scratch in a VM
 - [ ] Install Windows 11 from scratch in a VM
 - [ ] Install Ubuntu Linux in a VM
-- [ ] Navigate and configure Control Panel vs Settings
+- [x] Navigate and configure Control Panel vs Settings
 - [ ] Manage users and permissions
 - [ ] Join a domain / workgroup
 - [ ] Configure Windows Firewall
@@ -31,12 +31,12 @@
 - [ ] Use Device Manager
 - [ ] Manage disk partitions with Disk Management
 - [ ] Use Command Prompt — ipconfig, ping, tracert, netstat, nslookup
-- [ ] Use PowerShell basics
+- [x] Use PowerShell basics
 - [ ] Create and restore system restore points
 - [ ] Configure and test Remote Desktop (RDP)
 - [ ] Set up shared folders and network drives
 - [ ] Use Registry Editor safely
-- [ ] Manage startup programs
+- [x] Manage startup programs
 - [ ] Run SFC and DISM repair commands
 - [ ] BitLocker encryption setup
 

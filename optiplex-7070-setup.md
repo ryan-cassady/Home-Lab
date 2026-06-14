@@ -43,11 +43,11 @@ Patch → Clean → Secure → Configure → Install
 - [x] Ditch monitor — confirm headless operation
 
 ### Phase 5 — Install
-- [ ] Install Chrome
-- [ ] Install VirtualBox
-- [ ] Install Jellyfin
-- [ ] Install 7-Zip
-- [ ] Install VLC
+- [x] Install Chrome
+- [x] Install VirtualBox
+- [x] Install Jellyfin
+- [x] Install 7-Zip
+- [x] Install VLC
 
 ---
 

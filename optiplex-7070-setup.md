@@ -36,11 +36,11 @@ Patch → Clean → Secure → Configure → Install
 - [x] Enable BitLocker
 
 ### Phase 4 — Configure
-- [ ] Enable Remote Desktop (RDP)
-- [ ] Set static IP address
-- [ ] Configure power settings (never sleep)
-- [ ] Test Remote Desktop from Surface Book 3
-- [ ] Ditch monitor — confirm headless operation
+- [x] Enable Remote Desktop (RDP)
+- [x] Set static IP address
+- [x] Configure power settings (never sleep)
+- [x] Test Remote Desktop from Surface Book 3
+- [x] Ditch monitor — confirm headless operation
 
 ### Phase 5 — Install
 - [ ] Install Chrome

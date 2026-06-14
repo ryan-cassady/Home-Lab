@@ -29,11 +29,11 @@ Patch → Clean → Secure → Configure → Install
 - [x] Disable unnecessary background services
 
 ### Phase 3 — Secure
-- [ ] Install Bitwarden password manager
-- [ ] Set strong PIN/password
-- [ ] Configure Windows Defender
-- [ ] Configure Windows Firewall
-- [ ] Enable BitLocker
+- [x] Install Bitwarden password manager
+- [x] Set strong PIN/password
+- [x] Configure Windows Defender
+- [x] Configure Windows Firewall
+- [x] Enable BitLocker
 
 ### Phase 4 — Configure
 - [ ] Enable Remote Desktop (RDP)

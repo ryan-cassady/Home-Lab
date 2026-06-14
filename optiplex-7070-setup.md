@@ -23,10 +23,10 @@ Patch → Clean → Secure → Configure → Install
 - [x] System restarted and confirmed up to date
 
 ### Phase 2 — Clean
-- [ ] Export installed apps list via PowerShell
-- [ ] Remove bloatware and unnecessary apps
-- [ ] Clean up startup programs
-- [ ] Disable unnecessary background services
+- [x] Export installed apps list via PowerShell
+- [x] Remove bloatware and unnecessary apps
+- [x] Clean up startup programs
+- [x] Disable unnecessary background services
 
 ### Phase 3 — Secure
 - [ ] Install Bitwarden password manager
